@@ -119,8 +119,3 @@ The function operates in **O(n)** time complexity, where **n** is the maximum nu
 All tests have passed, demonstrating that the function performs correctly with various inputs, including edge cases such as empty blocks, different block counts, and handling the `"IGNORED"` keyword.
 
 ---
-
-### Deliverable 4: **Preliminary GitHub Repository**
-You can create a GitHub repository with the `README.md` only. Here's a possible summary to include in the repository:
-
----
