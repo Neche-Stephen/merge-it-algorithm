@@ -12,7 +12,7 @@ The `mergeContents` function is designed to merge blocks of text from two files:
 ### Approach
 
 1. **Splitting into Blocks**:
-   I assumed the blocks of text are separated by two or more newlines (with possible spaces in between). The content of both files is split into blocks using this separator. However, my logic will also work for another kind of separator such as a string sequence like ====
+   I assumed the blocks of text are separated by two or more newlines (with possible spaces in between). The content of both files is split into blocks using this separator. However, my logic will also work for another kind of separator such as a string sequence like "====".
 
 2. **Iterating and Merging**:
    I iterate over the blocks from both the base and modified files, using the following rules:
