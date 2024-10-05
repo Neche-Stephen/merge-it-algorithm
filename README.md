@@ -25,7 +25,7 @@ The `mergeContents` function is designed to merge blocks of text from two files:
 
 ### Tools/Libraries Used
 
-- **JavaScript/Node.js**: The function and tests are written in JavaScript.
+- **JavaScript/Node.js**: The function and tests are written in JavaScript and run in Nodejs environment.
 - **Jest**: Used as the testing framework.
 
 ### Runtime Performance
